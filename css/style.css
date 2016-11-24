@@ -1,0 +1,11 @@
+body{
+	background: url("/imgs/") 
+		no-repeat top center;
+}
+
+h1{
+	font-family: 'Roboto', serif;
+	font-size: 42px;
+	text-align: center;
+	top: 40%;
+}
