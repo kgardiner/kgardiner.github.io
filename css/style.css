@@ -1,6 +1,4 @@
 .banner{
-	position: relative;
-	width: 50%;
 	background: url("imgs/webprofile.jpg") no-repeat top center;
 	background-size: cover;
 	background-attachment: fixed;
